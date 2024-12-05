@@ -1,0 +1,16 @@
+.juego-dardos {
+    display: flex;
+    justify-content: center;
+}
+
+#tiro {
+    z-index: 1;
+}
+
+#imagen-x {
+    position: absolute;
+    width: 80px;
+    height: 65px;
+    align-self: center;
+    z-index: 2;
+}
